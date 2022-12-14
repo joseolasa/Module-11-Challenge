@@ -12,8 +12,20 @@ A link to my co-lab notebook is below
 
 [CO-LAB](https://colab.research.google.com/drive/1BpBDlLLlFBmMaxKciEcCtP_xteeWdQI0?usp=sharing)
 
+a copy of my CO-LAB note book is in the repo: forecasting_net_prophet_jjo
+
 ## Output
+
+### Stock Price
+
+### Search Traffic
+
+
 
 Below is the output of the prophet tool to forecast the future outcomes. This data is based on google search trends.
     ![prophet](/Images/prophet.jpg)
+    
+### Revenue 
+    
+
 
