@@ -1,6 +1,6 @@
 # Module-11-Challenge
 
-## the goal
+## The goal
 
 The goal is to explore data around mercado libre. The data explored is time-series data.  
 
